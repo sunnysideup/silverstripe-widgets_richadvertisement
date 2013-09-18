@@ -3,7 +3,7 @@
 	"type": "silverstripe-module",
 	"description": "",
 	"homepage": "http://www.silverstripe-webdevelopment.com",
-	"keywords": ["widgets_richadvertisement", "silverstripe"],
+	"keywords": ["widgets_richadvertisement", "silverstripe", "advertisement"],
 	"license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
 	"authors":[
 		{
@@ -14,7 +14,9 @@
 		}
 	],
 	"require":{
-		"php": ">=5.3.2",
 		"silverstripe/framework": "~2.4"
-	}
+	},
+	"extra": {
+		"installer-name": "widgets_richadvertisement"
+	}	
 }
