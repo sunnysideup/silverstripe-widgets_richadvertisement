@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns="http://xml.phpdox.net/src" full="RichAdvertisement" namespace="" name="RichAdvertisement" abstract="false" final="false" start="5" end="43">
+  <file path="/var/www/_modules/widgets_richadvertisement/trunk/docs/en/phpdox/../../.." file="RichAdvertisement.php" realpath="/var/www/_modules/widgets_richadvertisement/trunk/RichAdvertisement.php" size="985" time="2015-03-14T10:22:19+13:00" unixtime="1426281739" sha1="3983014db4bf98f28c8299171f45868c9dd16956" relative="RichAdvertisement.php"/>
+  <docblock>
+    <description compact="author nicolaas [at] sunnysideup.co.nz"/>
+  </docblock>
+  <extends full="Widget" namespace="" name="Widget"/>
+  <member name="has_one" type="array" visibility="public" line="7"/>
+  <member name="title" type="string" default="'Rich Advertisement'" visibility="public" line="11"/>
+  <member name="cmsTitle" type="string" default="'Rich Advertisement'" visibility="public" line="13"/>
+  <member name="description" type="string" default="'Allows you to add a richly formatted advertisement'" visibility="public" line="15"/>
+  <method name="getCMSFields" start="17" end="32" abstract="false" final="false" static="false" visibility="public"/>
+  <method name="Title" start="34" end="36" abstract="false" final="false" static="false" visibility="public"/>
+  <method name="getTitle" start="38" end="40" abstract="false" final="false" static="false" visibility="public"/>
+</class>
