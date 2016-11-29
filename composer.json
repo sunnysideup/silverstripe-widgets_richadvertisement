@@ -3,8 +3,10 @@
     "type": "silverstripe-module",
     "description": "",
     "keywords": [
+        "Silverstripe-CMS",
+        "CMS",
+        "Silverstripe",
         "widgets_richadvertisement",
-        "silverstripe",
         "advertisement"
     ],
     "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
@@ -16,7 +18,8 @@
         }
     ],
     "require": {
-        "silverstripe/framework": "~2.4"
+        "silverstripe/framework": "~2.4",
+        "silverstripe/cms": "~2.4"
     },
     "extra": {
         "installer-name": "widgets_richadvertisement"
