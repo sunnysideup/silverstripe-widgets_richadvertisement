@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<source xmlns="http://xml.phpdox.net/src">
-  <dir name="/var/www/_modules/widgets_richadvertisement/trunk">
-    <file name="RichAdvertisement.php" size="985" time="2015-03-14T10:22:19+13:00" unixtime="1426281739" sha1="3983014db4bf98f28c8299171f45868c9dd16956" xml="tokens/RichAdvertisement.php.xml"/>
-    <file name="_config.php" size="436" time="2015-03-14T10:22:19+13:00" unixtime="1426281739" sha1="26a752c97d51156df37cd289d93aa39e7d9e51e9" xml="tokens/_config.php.xml"/>
-  </dir>
-</source>
